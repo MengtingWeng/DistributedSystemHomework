@@ -1,2 +1,2 @@
 # DistributedSystemHomework
-Three homework for distributed system
+Three homeworks for distributed system
