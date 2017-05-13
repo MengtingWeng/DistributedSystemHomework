@@ -5,10 +5,7 @@ The project on github: https://github.com/irisxia51244/ADC2017
 ======
 Group Member
 ------
-Mengting Weng (1750194)
-Weijia Chen(1667998)
-Zijun Qu(1650088)
-Shihui Xia(1668066) 
+***** 
 
 General Purpose
 ------
