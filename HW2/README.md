@@ -3,10 +3,6 @@ Project 1
 ======
 Group Member
 ------
-Weijia Chen 1667998
-Zijun Qu 1650088
-Mengting Weng 1750194 
-Shihui Xia 1668066
 
 
 General Purpose
